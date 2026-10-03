@@ -1,0 +1,22 @@
+spec_version: "0.1.0"
+name: resume-screening-agent
+version: 1.0.0
+description: A framework-independent agent for deterministic resume screening and candidate-job matching from supplied resume and job data.
+author: Agent Passport Project
+license: MIT
+skills:
+  - resume-screening
+  - candidate-matching
+  - screening-reporting
+tools:
+  - screen-resume
+  - match-candidate
+  - build-screening-report
+runtime:
+  max_turns: 20
+  timeout: 120
+tags:
+  - resume
+  - recruitment
+  - screening
+  - candidate-matching

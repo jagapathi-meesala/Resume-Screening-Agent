@@ -1,0 +1,7 @@
+name: build-screening-report
+description: Deterministic resume screening operation using caller-supplied data.
+input_schema:
+  type: object
+  properties: {}
+  required: []
+  additionalProperties: false
